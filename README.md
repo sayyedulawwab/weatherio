@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://netflix-front-clone.web.app/">
+    <a href="https://weatherio-76a5a8.netlify.app/">
       Live
     </a>
     <span> | </span>
@@ -27,7 +27,7 @@ It is a mini project done while learning React.
 ### Built With
 
 - [React](https://reactjs.org/)
-- [OpenWeather)](https://openweathermap.org/) API
+- [OpenWeather](https://openweathermap.org/) API
 - Deployed using [Netlify](https://www.netlify.com/)
 
 ### Installation and Usage
